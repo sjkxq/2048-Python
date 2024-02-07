@@ -9,3 +9,8 @@ __pycache__
 # Windows
 desktop.ini
 
+# gitee
+.gitee
+
+# GitHub
+.github
