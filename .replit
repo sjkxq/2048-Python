@@ -1,0 +1,4 @@
+# 项目使用的编程语言是 Python 3
+language = "python3"
+# 启动后运行主程序
+run = "python3 main.py"

@@ -1,0 +1,11 @@
+# python
+*.pyc
+__pycache__
+
+# IDEA
+.idea
+
+
+# Windows
+desktop.ini
+
